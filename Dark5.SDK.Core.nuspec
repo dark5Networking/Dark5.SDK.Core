@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Dark5.SDK.Core</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Dark5</authors>
+    <owners>Dark5</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">LGPL-3.0-only</license>
+    <projectUrl>https://github.com/dark5Networking/Dark5.SDK.Core</projectUrl>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>dark5 fivem gtav</tags>
+    <repository type="git" url="git://github.com/dark5Networking/Dark5.SDK.Core" />
+  </metadata>
+</package>
